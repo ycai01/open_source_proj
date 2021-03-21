@@ -1,5 +1,5 @@
 def add(a, b):
-    return a - b
+    return a + b
 
 def main(a, b):
     c = add(a, b)
